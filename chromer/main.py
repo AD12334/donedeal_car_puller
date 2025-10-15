@@ -60,6 +60,7 @@ if __name__ == "__main__":
     # ----------------------------
     url = f'https://www.donedeal.ie/cars?price_from={arguments[0]}&price_to={arguments[1]}&year_from={arguments[2]}&sellerType={arguments[3]}&area={arguments[4]}'
     driver.get(url)
+    ## next button = .GhostButton__SGhostButton-sc-1uq3hiv-0 dXRRVP Pagination__NavigationGhostButton-sc-1w9pc29-3.kOCgwa
 
     # ----------------------------
     # Accept cookies popup if present
@@ -69,7 +70,7 @@ if __name__ == "__main__":
         cookie_btn.click()
     except Exception:
         pass
-
+    cars = []
     # ----------------------------
     # Screenshot all listing containers
     # ----------------------------
@@ -78,5 +79,39 @@ if __name__ == "__main__":
     ### year,engine_size,mileage,time posted,location -> .SearchCardstyled__MetaInfoItem-sc-7ibu2h-8.jFdZDo
     container_class = ".SearchCardstyled__MetaInfoItem-sc-7ibu2h-8.jFdZDo"
     screenshot_listings(driver, container_class)
- ##TODO IMPLEMENT FILTERING FOR INDIVIDUAL COMPONENTS E.
+ ##TODO IMPLEMENT FILTERING FOR INDIVIDUAL COMPONENTS 
+ ##for each container
+ ## find the mileage, engine size, year etc
+ ##find the price etc.
+##store in a dict or a class instance
 
+class Car:
+    def __init__(self, name, year, engine_size, mileage, price, location, time_posted, link):
+        self.name = name
+        self.year = year
+        self.engine_size = engine_size
+        self.mileage = mileage
+        self.price = price
+        self.location = location
+        self.time_posted = time_posted
+        self.link = link
+
+    def __repr__(self):
+        return f"{self.year} {self.name}, {self.engine_size}, {self.mileage}, {self.price}, {self.location}, {self.time_posted}, {self.link}"
+
+def create_email_content(cars):
+    email_content = "Here are the car listings:\n\n"
+    for car in cars:
+        email_content += f"{car}\n"
+    return email_content
+
+def send_email(subject, body, to_email):
+    import smtplib
+    from email.mime.text import MIMEText
+    from email.mime.multipart import MIMEMultipart
+
+def get_href(car_name):
+    base_url = "https://www.donedeal.ie/cars-for-sale/"
+    description = car_name.lower().replace(" ", "-")
+    href = f"{base_url}{description}/"
+    return href
