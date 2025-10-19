@@ -1,0 +1,172 @@
+year,name,engine_size,mileage(km),price(eur),link
+2017,Ford Focus,1.5 Diesel,167693,13600,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/38898156
+2013,Ford C-Max,1.6 Diesel,196339,4250,https://www.donedeal.ie/cars-for-sale/ford-c-max-2013-titanium/40078384
+2018,Ford Kuga,1.5 Diesel,130000,19500,https://www.donedeal.ie/cars-for-sale/ford-kuga-titanium-1-5-tdci-120ps-f-fwd-4dr/33351401
+2018,Ford Focus,1.5 Diesel,246491,10495,https://www.donedeal.ie/cars-for-sale/2018-ford-focus-1-5d-style-tdci/40236942
+2017,Ford S-Max,2.0 Diesel,286903,11995,https://www.donedeal.ie/cars-for-sale/2017-ford-s-max-2-0d-titanium-tdci-7-seater/40134905
+2016,Ford Galaxy,2.0 Diesel,221936,12995,https://www.donedeal.ie/cars-for-sale/2016-ford-galaxy-2-0tdci-120ps-7-seater/38959152
+2021,Ford Focus,1.5 Diesel,99296,22750,https://www.donedeal.ie/cars-for-sale/ford-focus-active-ecoblue/39381017
+2016,Ford Fiesta,1.0 Petrol,125217,9995,https://www.donedeal.ie/cars-for-sale/ford-fiesta-2016-1-0-ecoboost-65ps-s-s-zetec/40034713
+2012,Ford Mondeo,1.6 Diesel,278435,3995,https://www.donedeal.ie/cars-for-sale/2012-ford-mondeo-style-1-6tdci-115ps/39194664
+2017,Ford Kuga,1.5 Diesel,209498,10850,https://www.donedeal.ie/cars-for-sale/2017-ford-kuga-1-5-tdci-diesel-titanium-suv-jeep/40636106
+2018,Ford Focus,1.5 Diesel,155466,15500,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-1-5-td-95ps-6speed-4dr/39168443
+2016,Ford Mondeo,1.5 Diesel,201457,9495,https://www.donedeal.ie/cars-for-sale/2016-ford-mondeo-zetec-1-5tdci-120hp/40433513
+2016,Ford Galaxy,2.0 Diesel,268056,11495,https://www.donedeal.ie/cars-for-sale/2016-ford-galaxy-zetec-2-0d-tdci-140hp/40433183
+2021,Ford Focus,1.5 Diesel,118159,19995,https://www.donedeal.ie/cars-for-sale/2021-ford-focus-1-5l-ecoblue-120ps-st-line/39815846
+2011,Ford S-Max,2.0 Diesel,250112,4295,https://www.donedeal.ie/cars-for-sale/2011-ford-s-max-2-0tdci-115ps-zetec/39722801
+2016,Ford Galaxy,2.0 Diesel,225161,12995,https://www.donedeal.ie/cars-for-sale/2016-ford-galaxy-zetec-2-0tdci-150ps-automatic/39297036
+2016,Ford Mondeo,1.5 Diesel,137000,9950,https://www.donedeal.ie/cars-for-sale/ford-mondeo-1-5-tdci-zetec/40800923
+2015,Ford Mondeo,1.6 Diesel,200465,9495,https://www.donedeal.ie/cars-for-sale/2015-ford-mondeo-1-6tdci-titanium-115hp/40586076
+2018,Ford C-Max,1.5 Diesel,142118,12495,https://www.donedeal.ie/cars-for-sale/2018-ford-grand-c-max-1-5-tdci-95ps-zetec/39870074
+2017,Ford Mondeo,2.0 Diesel,265919,11495,https://www.donedeal.ie/cars-for-sale/2017-ford-mondeo-st-line-2-0tdci-150ps/39558952
+2015,Ford C-Max,1.6 Diesel,243560,6195,https://www.donedeal.ie/cars-for-sale/2015-ford-grand-c-max-1-6-diesel-95ps/39362360
+2014,Ford S-Max,1.6 Diesel,214748,6795,https://www.donedeal.ie/cars-for-sale/2014-ford-s-max-zetec-1-6-tdci-7-seater/39194553
+2017,Ford Focus,1.5 Diesel,176543,12950,https://www.donedeal.ie/cars-for-sale/ford-focus-20171-5-tdci-titianum-spec/40779324
+2015,Ford Focus,1.6 Diesel,257521,7795,https://www.donedeal.ie/cars-for-sale/2015-ford-focus-1-6-tdci-style/40533390
+2009,Ford Focus,1.8 Diesel,369266,2195,https://www.donedeal.ie/cars-for-sale/2009-ford-focus-1-8-tdci-zetec-115hp/40082417
+2016,Ford Mondeo,1.5 Diesel,202418,8995,https://www.donedeal.ie/cars-for-sale/2016-ford-mondeo-zetec-1-5tdci-120ps/38959016
+2016,Ford S-Max,2.0 Diesel,140701,15995,https://www.donedeal.ie/cars-for-sale/2016-ford-s-max-2-0tdci-140ps-titanium-automatic/39622854
+2017,Ford Focus,1.5 Diesel,233354,11000,https://www.donedeal.ie/cars-for-sale/ford-focus-2017/40058267
+2015,Ford Fiesta,1.0 Petrol,96560,8950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-2015/40453099
+2019,Ford Focus,1.5 Diesel,96383,19250,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-1-5-tdci-2019low-miles/40793422
+2018,Ford Fiesta,1.1 Petrol,153235,11995,https://www.donedeal.ie/cars-for-sale/2018-ford-fiesta-1-1-petrol-titanium/40790993
+2022,Ford Focus,1.0 Petrol Hybrid,54206,22900,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-edition-5dr-1-0t1-1-0t125-mhe/40610786
+2010,Ford Focus,1.6 Diesel,316000,2950,https://www.donedeal.ie/cars-for-sale/ford-focus-2010-diesel/39593435
+2017,Ford Fiesta,1.2 Petrol,154770,10950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-zetec/40546942
+2012,Ford S-Max,2.0 Diesel,299337,4950,https://www.donedeal.ie/cars-for-sale/2012-ford-s-max-2-0-tdci-zetec-7-seats/36211052
+2014,Ford Mondeo,2.0 Diesel,284853,5500,https://www.donedeal.ie/cars-for-sale/2014-ford-mondeo-2-0-tdci-bus-edition/37975833
+2021,Ford Focus,1.5 Diesel,123597,22250,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-tdci-auto/37061295
+2017,Ford EcoSport,1.5 Diesel,128101,13950,https://www.donedeal.ie/cars-for-sale/ford-ecosport-1-5-tdci-zetec-titanium/40779818
+2021,Ford Kuga,1.5 Diesel,44256,24950,https://www.donedeal.ie/cars-for-sale/2021-ford-kuga-titanium-edition/40778930
+2014,Ford Fiesta,1.0 Petrol,164992,7995,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-125hp/40777195
+2014,Ford Fiesta,1.0 Petrol,144840,7295,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-x/40777108
+2015,Ford Fiesta,1.0 Petrol,131853,9295,https://www.donedeal.ie/cars-for-sale/2015-ford-fiesta-1-0-petrol-zetec/40777059
+2014,Ford Focus,1.6 Diesel,146000,8950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-6-zetec-very-low-miles/40776406
+2019,Ford Focus,1.0 Petrol,67000,14950,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-1-0-petroltop-spec-low-mile/40776166
+2020,Ford Kuga,1.5 Diesel,101000,23500,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-ecoblue-120ps-titanium/40774977
+2019,Ford Focus,1.5 Diesel,164318,15950,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-tdci/40774805
+2017,Ford Focus,2.0 Diesel,149222,16900,https://www.donedeal.ie/cars-for-sale/2017-ford-focus-st-2-2-0-diesel-mint/40595999
+2016,Ford Kuga,2.0 Diesel,140966,12850,https://www.donedeal.ie/cars-for-sale/2016-ford-kuga-2-0-tdci-zetec-2wd-150ps-just-87k/39251612
+2017,Ford Focus,1.5 Diesel,142262,12650,https://www.donedeal.ie/cars-for-sale/2017-ford-focus-titanium-1-5tdci-88k-miles/40643706
+2022,Ford Focus,1.5 Diesel,45061,23950,https://www.donedeal.ie/cars-for-sale/ford-focus-trend-ecoblue-auto-estate/36524622
+2017,Ford Mondeo,2.0 Diesel,197938,13250,https://www.donedeal.ie/cars-for-sale/ford-mondeo-st-line-2-0-2017/40392141
+2016,Ford Fiesta,1.0 Petrol,113205,10495,https://www.donedeal.ie/cars-for-sale/2016-ford-fiesta-1-0-petrol-titanium/40771930
+2015,Ford Mondeo,1.6 Diesel,221002,8500,https://www.donedeal.ie/cars-for-sale/ford-mondeo-1-6-tdci-zetec-econetic-s-s-115ps-5dr/38543209
+2017,Ford Focus,1.5 Diesel,162000,12900,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-1-5-td-95ps-6speed-4dr/39348710
+2017,Ford Fiesta,1.2 Petrol,152631,10950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-25-zetec/40755211
+2016,Ford S-Max,2.0 Diesel,189987,11950,https://www.donedeal.ie/cars-for-sale/ford-s-max-2-0-tdci-titanium-150ps-5dr/39575606
+2017,Ford Focus,1.5 Diesel,156474,11950,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40741582
+2018,Ford Focus,1.5 Diesel,184122,12500,https://www.donedeal.ie/cars-for-sale/ford-focus-car-located-in-tuam-garage-nav-system/40333538
+2018,Ford Focus,1.5 Diesel,229931,10500,https://www.donedeal.ie/cars-for-sale/ford-focus-navigation-system-nct-02-26-1-5-tdci/40456674
+2014,Ford Focus,1.0 Petrol,85252,8450,https://www.donedeal.ie/cars-for-sale/ford-focus-tiny-mileage-titanium-1-0-125ps/40738270
+2018,Ford Fiesta,1.1 Petrol,101979,10995,https://www.donedeal.ie/cars-for-sale/2018-ford-fiesta-petrol-1-1-zetec/40734972
+2017,Ford Galaxy,2.0 Diesel,235000,13495,https://www.donedeal.ie/cars-for-sale/ford-galaxy-2-0-tdci-120ps-manual-4dr-zetec-straig/40246835
+2016,Ford Galaxy,2.0 Diesel,258466,13495,https://www.donedeal.ie/cars-for-sale/ford-galaxy-2-0-tdci-titanium-150ps-5dr-auto-strai/37082316
+2021,Ford Kuga,1.5 Diesel,52000,26900,https://www.donedeal.ie/cars-for-sale/ford-kuga-titanium-1-5-td-120-s6-2-m6-f-4dr/39190096
+2023,Ford Puma,1.0 Petrol Hybrid,51266,24995,https://www.donedeal.ie/cars-for-sale/ford-puma-automatic-top-spec-1-0l-st-line/40194574
+2018,Ford C-Max,1.5 Diesel,161412,11500,https://www.donedeal.ie/cars-for-sale/ford-c-max-flash-sale-titanium-1-5-tdci-dsl/40721416
+2016,Ford Kuga,2.0 Diesel,254227,10500,https://www.donedeal.ie/cars-for-sale/ford-kuga-titanium-2-0tdci-120ps/40720907
+2023,Ford Puma,1.0 Petrol Hybrid,37325,26950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0l-ecob-hybrid-155ps-st-line/40624613
+2020,Ford EcoSport,1.5 Diesel,67635,20950,https://www.donedeal.ie/cars-for-sale/ford-ecosport-1-5-ecoblue-125ps-st-line/39638192
+2018,Ford Fiesta,1.0 Petrol,131043,12950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0t-100-ps-titanium/39530677
+2019,Ford Kuga,1.5 Diesel,94644,21950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5tdci-120ps-fwd-titanium/39074631
+2022,Ford Kuga,1.5 Diesel,99226,28950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-ecoblue-120ps-titanium/38628107
+2017,Ford Focus,1.5 Diesel,207831,10750,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-2017/40695741
+2019,Ford Kuga,1.5 Diesel,132000,18950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5tdci-120ps-fwd-titanium/40685541
+2015,Ford Fiesta,1.2 Petrol,154107,9600,https://www.donedeal.ie/cars-for-sale/ford-fiesta-2015/37248918
+2021,Ford Focus,1.0 Petrol Hybrid,47000,21950,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-2021/38871846
+2016,Ford Kuga,2.0 Diesel,180400,13000,https://www.donedeal.ie/cars-for-sale/ford-kuga-2016/37193303
+2015,Ford Kuga,2.0 Diesel,192887,9950,https://www.donedeal.ie/cars-for-sale/ford-kuga-loaded-suv-zetec-model-2-0tdci-120bhp/39518986
+2020,Ford Focus,1.5 Diesel,147195,16950,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/40263585
+2016,Ford Fiesta,1.0 Petrol,99000,11950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-zetec/40551231
+2022,Ford Kuga,2.0 Diesel Hybrid,72900,31950,https://www.donedeal.ie/cars-for-sale/ford-kuga-2-0-diesel-st-line-150bhp/40555373
+2022,Ford Kuga,2.5 Petrol Plug-in Hybrid,47424,31950,https://www.donedeal.ie/cars-for-sale/ford-kuga-automatic-2-5-petrol-hybrid-titanium/40400898
+2025,Ford Focus,1.0 Petrol Hybrid,4300,34450,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-hybrid-titanium-125bhp-dem/40385140
+2022,Ford Puma,1.0 Petrol Hybrid,63528,24450,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-st-line-125bhp/40237674
+2018,Ford Fiesta,1.5 Diesel,168000,13950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-5-diesel-zetec/40555159
+2019,Ford Kuga,1.5 Diesel,129000,20950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-st-line/40359588
+2024,Ford Puma,1.0 Petrol Hybrid,32000,28950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium/40217805
+2018,Ford Fiesta,1.1 Petrol,169000,13950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-1-petrol-titanium/40234474
+2023,Ford Kuga,2.5 Petrol,30000,34950,https://www.donedeal.ie/cars-for-sale/ford-kuga-automatic-2-5-petrol-hybrid-titanium/40221510
+2023,Ford Puma,1.0 Petrol Hybrid,42543,26950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-st-line-125bhp/40074174
+2025,Ford Kuga,2.5 Petrol Plug-in Hybrid,3000,49950,https://www.donedeal.ie/cars-for-sale/ford-kuga-automatic-2-5-petrol-hybrid-st-line-de/40217867
+2019,Ford Focus,1.0 Petrol,101995,18450,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-titanium-125bhp/40050855
+2018,Ford C-Max,1.5 Diesel,150500,13950,https://www.donedeal.ie/cars-for-sale/ford-c-max-1-5-diesel-titanium/40029178
+2022,Ford Focus,1.0 Petrol Hybrid,43000,24950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-hybrid-titanium-125bhp/40087221
+2023,Ford Puma,1.0 Petrol Hybrid,43551,25950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-125bhp/39579835
+2020,Ford Kuga,1.5 Diesel,115568,23500,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/39579719
+2023,Ford Mustang,98.8 kWh Electric,4331,49950,https://www.donedeal.ie/cars-for-sale/ford-mustang-mach-e-91kwh-98kwh-extended-range/40018709
+2022,Ford Fiesta,1.0 Petrol,48018,19950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-trend/39920616
+2022,Ford Focus,1.0 Petrol Hybrid,57471,23950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-hybrid-titanium-125bhp/39579489
+2021,Ford Puma,1.0 Petrol Hybrid,93264,19950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-125bhp/39580326
+2021,Ford Puma,1.0 Petrol Hybrid,95408,19950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-125bhp/39571156
+2021,Ford Kuga,1.5 Diesel,100785,25950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/37782918
+2021,Ford Focus,1.0 Petrol,61142,23950,https://www.donedeal.ie/cars-for-sale/ford-focus-automatic-1-0-petrol-titanium/37874725
+2021,Ford Fiesta,1.0 Petrol,58465,18950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-active-95bhp/37637045
+2017,Ford Fiesta,1.0 Petrol,60402,12950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-titanium/40391719
+2022,Ford Kuga,2.5 Petrol Plug-in Hybrid,65221,30950,https://www.donedeal.ie/cars-for-sale/ford-kuga-automatic-2-5-petrol-hybrid-titanium/40087248
+2017,Ford Kuga,1.5 Diesel,174581,14950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/39579624
+2025,Ford Puma,1.0 Petrol Hybrid,2000,32950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-demo/40295740
+2023,Ford Fiesta,1.1 Petrol,25704,21950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-1-petrol-trend/39537030
+2024,Ford Puma,1.0 Petrol,17500,29950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-st-line-125bhp/40225795
+2021,Ford Focus,1.0 Petrol Hybrid,140929,17950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-hybrid-titanium-125bhp/39364636
+2021,Ford Focus,1.5 Diesel,96000,22950,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-1-5-diesel-120bhp/39363495
+2019,Ford Focus,1.5 Diesel,152930,18450,https://www.donedeal.ie/cars-for-sale/ford-focus-1-5-diesel-titanium-120bhp/39363461
+2015,Ford C-Max,1.6 Diesel,193000,9950,https://www.donedeal.ie/cars-for-sale/ford-c-max-1-6-diesel-titanium/39579523
+2021,Ford Fiesta,1.0 Petrol,52102,17950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-titanium/39299503
+2022,Ford Focus,1.0 Petrol,26000,25950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-titanium-125bhp/39114916
+2022,Ford Focus,1.0 Petrol,66512,22950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-125bhp-trend/39093268
+2017,Ford EcoSport,1.5 Diesel,133000,13950,https://www.donedeal.ie/cars-for-sale/ford-ecosport-1-5-diesel-titanium/39109226
+2024,Ford Focus,1.0 Petrol,24680,29950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-titanium-125bhp/38738478
+2015,Ford Kuga,2.0 Diesel,224506,12950,https://www.donedeal.ie/cars-for-sale/ford-kuga-2-0-diesel-titanium-awd-commercial-4-se/38547044
+2018,Ford Focus,1.0 Petrol,138000,16950,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-petrol-125bhp-titanium/38439966
+2020,Ford Kuga,1.5 Diesel,101723,23500,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/37860835
+2019,Ford Focus,1.0 Petrol,41888,16950,https://www.donedeal.ie/cars-for-sale/ford-focus-2019/40196503
+2018,Ford Focus,1.5 Diesel,141967,16500,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci-auto/40263394
+2017,Ford Focus,1.5 Diesel,153709,13500,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-tdci/40658087
+2015,Ford Focus,1.5 Diesel,198146,9500,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40644267
+2016,Ford Focus,1.5 Diesel,176353,10950,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40617307
+2017,Ford Focus,1.5 Diesel,213425,12950,https://www.donedeal.ie/cars-for-sale/ford-focus-st-line-tdci/40610822
+2016,Ford Focus,1.5 Diesel,184031,11500,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/40146085
+2023,Ford Puma,1.0 Petrol Hybrid,52000,25950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-125bhp/40340748
+2022,Ford Focus,1.5 Diesel,143575,20950,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/40146084
+2015,Ford Focus,1.6 Diesel,270396,8500,https://www.donedeal.ie/cars-for-sale/ford-focus-1-6-tdci-zetec-navigator-115ps-5dr/40524639
+2022,Ford Kuga,1.5 Diesel,72898,32950,https://www.donedeal.ie/cars-for-sale/ford-kuga-st-line-x-ed-ecoblue-edition/40504235
+2018,Ford Kuga,1.5 Diesel,71000,18950,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/40500709
+2020,Ford Focus,1.5 Diesel,124820,17500,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/38662043
+2018,Ford Kuga,1.5 Diesel,182000,14900,https://www.donedeal.ie/cars-for-sale/ford-kuga-titanium-1-5-tdci-120ps-f-fwd-4dr/40486270
+2022,Ford Kuga,1.5 Diesel,92939,29500,https://www.donedeal.ie/cars-for-sale/ford-kuga-2022-st-line-x/40483616
+2022,Ford Focus,1.5 Diesel,91424,23950,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-style-ecob/40480574
+2020,Ford Focus,1.5 Diesel,99977,17950,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci-auto/39281383
+2014,Ford Fiesta,1.2 Petrol,180164,7950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-zetec/38420219
+2016,Ford Focus,1.5 Diesel,166000,8950,https://www.donedeal.ie/cars-for-sale/ford-focus-2016/40397563
+2010,Ford Mondeo,2.0 Diesel,314389,3750,https://www.donedeal.ie/cars-for-sale/ford-mondeo-2-0-tdci-edge-140bhp-6speed-5dr/33974895
+2015,Ford Fiesta,1.2 Petrol,99000,10450,https://www.donedeal.ie/cars-for-sale/2015-ford-fiesta-mca-zetec-1-25-60ps-m5-4dr/40424016
+2017,Ford Focus,1.5 Diesel,104154,14950,https://www.donedeal.ie/cars-for-sale/2017-ford-focus-st-line-1-5tdci-just-64k-miles/40379032
+2020,Ford Fiesta,1.0 Petrol,28000,16950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-1-0-petrol-titanium-100bhp/40087080
+2022,Ford Puma,1.0 Petrol Hybrid,83296,20950,https://www.donedeal.ie/cars-for-sale/ford-puma-1-0-petrol-hybrid-titanium-125bhp/40019405
+2019,Ford Kuga,1.5 Diesel,79783,21750,https://www.donedeal.ie/cars-for-sale/ford-kuga-1-5-diesel-titanium-120bhp/39929428
+2015,Ford Focus,1.6 Diesel,242524,10950,https://www.donedeal.ie/cars-for-sale/ford-focus-2015/36722947
+2015,Ford Focus,1.6 Diesel,257521,7795,https://www.donedeal.ie/cars-for-sale/2015-ford-focus-1-6-tdci-style/40533390
+2014,Ford Fiesta,1.0 Petrol,164992,7995,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-125hp/40777195
+2014,Ford Fiesta,1.0 Petrol,144840,7295,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-x/40777108
+2014,Ford Fiesta,1.2 Petrol,180164,7950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-zetec/38420219
+2012,Ford Fiesta,1.2 Petrol,101436,7300,https://www.donedeal.ie/cars-for-sale/ford-fiesta-low-miles-1-25-zetec-82ps-5dr-argento/40796866
+2014,Ford Fiesta,1.0 Petrol,164992,7995,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-125hp/40777195
+2014,Ford Fiesta,1.0 Petrol,144840,7295,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-x/40777108
+2012,Ford Fiesta,1.4 Diesel,147000,6950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-2012-low-kms/39368144
+2014,Ford Fiesta,1.2 Petrol,180164,7950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-zetec/38420219
+2012,Ford Fiesta,1.2 Petrol,101436,7300,https://www.donedeal.ie/cars-for-sale/ford-fiesta-low-miles-1-25-zetec-82ps-5dr-argento/40796866
+2014,Ford Fiesta,1.0 Petrol,164992,7995,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-125hp/40777195
+2014,Ford Fiesta,1.0 Petrol,144840,7295,https://www.donedeal.ie/cars-for-sale/2014-ford-fiesta-1-0p-titanium-x/40777108
+2012,Ford Fiesta,1.4 Diesel,147000,6950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-2012-low-kms/39368144
+2014,Ford Fiesta,1.2 Petrol,180164,7950,https://www.donedeal.ie/cars-for-sale/ford-fiesta-zetec/38420219
+2016,Ford Focus,1.5 Diesel,160755,,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-tdci/40810623
+2018,Ford Focus,1.5 Diesel,164442,,https://www.donedeal.ie/cars-for-sale/ford-focus-zetec-edition-tdci/40810621
+2016,Ford Focus,1.5 Diesel,114642,,https://www.donedeal.ie/cars-for-sale/ford-focus-1-5-tdci-zetec-120ps-5dr/40810500
+2013,Ford Focus,1.0 Petrol,163982,7900,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-ecoboost-zetec-125ps-5dr/40761387
+2012,Ford Focus,1.0 Petrol,164464,7300,https://www.donedeal.ie/cars-for-sale/ford-focus-1-0-titanium-ecoboost-12-125ps-5dr/40035205
+2017,Ford Focus,1.5 Diesel,131544,,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40774808
+2019,Ford Focus,1.5 Diesel,151012,,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40751667
+2018,Ford Focus,1.5 Diesel,108165,16900,https://www.donedeal.ie/cars-for-sale/ford-focus-low-miles-st-line-1-5-td-120ps-6speed-4/40532048
+2017,Ford Focus,1.5 Diesel,138977,,https://www.donedeal.ie/cars-for-sale/ford-focus-titanium-tdci/40644265

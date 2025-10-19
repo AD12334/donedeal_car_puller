@@ -1,0 +1,121 @@
+year,name,engine_size,mileage(km),price(eur),link
+2018,Kia Venga,1.4 Diesel,133252,12450,https://www.donedeal.ie/cars-for-sale/kia-venga-1-4-elite-diesel-5dr/38898151
+2014,Kia Sportage,1.7 Diesel,210010,8995,https://www.donedeal.ie/cars-for-sale/2014-kia-sportage-1-7d-gse-2wd/40562506
+2012,Kia Sportage,1.7 Diesel,223968,5995,https://www.donedeal.ie/cars-for-sale/2012-kia-sportage-1-7-dsl-4x2-gse/39917265
+2017,Kia Sportage,2.0 Petrol,116919,16995,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-automatic-2-0-petrol/38905433
+2018,Kia Sportage,1.7 Diesel,138602,18500,https://www.donedeal.ie/cars-for-sale/kia-sportage-2-crdi-isg/40518315
+2014,Kia Picanto,1.0 Petrol,93341,5250,https://www.donedeal.ie/cars-for-sale/kia-picanto-2014/38811479
+2018,Kia Ceed,1.4 Diesel,219428,10995,https://www.donedeal.ie/cars-for-sale/2018-kia-ceed-1-4-ex-diesel/40062958
+2019,Kia Sportage,1.6 Diesel,111311,20495,https://www.donedeal.ie/cars-for-sale/2019-kia-sportage-1-6-crdi-automatic/39359305
+2017,Kia Sportage,1.7 Diesel,279000,10995,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-lx-1-7d/39081099
+2016,Kia Rio,1.2 Petrol,215051,6495,https://www.donedeal.ie/cars-for-sale/2016-kia-rio-1-2-petrol/39194346
+2018,Kia Ceed,1.6 Diesel,146087,14500,https://www.donedeal.ie/cars-for-sale/kia-proceed-ceed-gt-line-sam-3dr/40120073
+2018,Kia Sportage,1.7 Diesel,173808,14750,https://www.donedeal.ie/cars-for-sale/kia-sportage-2018/40047085
+2023,Kia Sportage,1.6 Diesel,79697,31000,https://www.donedeal.ie/cars-for-sale/kia-sportage-like-new-top-sepc-k4-model-full-l/40095040
+2022,Kia Ceed,1.0 Petrol,48280,21750,https://www.donedeal.ie/cars-for-sale/kia-xceed-2-isg/40751627
+2017,Kia Sportage,1.7 Diesel,289932,11495,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-1-7d-platinum/40246117
+2013,Kia Sportage,1.7 Diesel,254441,6295,https://www.donedeal.ie/cars-for-sale/2013-kia-sportage-1-7-lx-dsl/40062862
+2017,Kia Sportage,2.0 Diesel,229390,12495,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-platinum-2-0-4wd/39195764
+2018,Kia Ceed,1.4 Diesel,196239,11995,https://www.donedeal.ie/cars-for-sale/2018-kia-ceed-ex-1-4-crdi-90-hp/39195141
+2013,Kia Carens,1.7 Diesel,215749,5995,https://www.donedeal.ie/cars-for-sale/2013-kia-carens-1-7d-tx-crdi-7-seats/40333386
+2016,Kia Sportage,1.7 Diesel,148522,13495,https://www.donedeal.ie/cars-for-sale/2016-kia-sportage-1-7d-lx/40673185
+2019,Kia Sportage,1.6 Diesel,152887,21000,https://www.donedeal.ie/cars-for-sale/kia-sportage-2019/40459839
+2021,Kia Niro,1.6 Petrol Hybrid,102354,22950,https://www.donedeal.ie/cars-for-sale/kia-niro-2-hev-s-a/37281059
+2017,Kia Sportage,1.7 Diesel,236572,10950,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-1-7-diesel-finance-available/40152841
+2018,Kia Venga,1.4 Diesel,94533,12950,https://www.donedeal.ie/cars-for-sale/kia-venga-2018/40028729
+2022,Kia EV6,77.5 kWh Electric,67771,31950,https://www.donedeal.ie/cars-for-sale/kia-ev6-2022/40500821
+2018,Kia Sportage,1.7 Diesel,124127,18450,https://www.donedeal.ie/cars-for-sale/kia-sportage-lx-5dr/40363421
+2017,Kia Sportage,1.7 Diesel,151277,16950,https://www.donedeal.ie/cars-for-sale/kia-sportage-2-crdi-isg/40637396
+2018,Kia Sportage,1.7 Diesel,160665,16950,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-crdi-isg/40361752
+2017,Kia Ceed,1.6 Diesel,110793,13950,https://www.donedeal.ie/cars-for-sale/2017-kia-pro-ceed-gt-line-s-1-6crdi-68k-miles/40115246
+2017,Kia Sportage,1.7 Diesel,119953,16950,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-two-1-7-crdi-isg-just-74k-mls/40679595
+2022,Kia Sportage,1.6 Diesel,56294,30950,https://www.donedeal.ie/cars-for-sale/2022-kia-sportage-1-6-crdi/40028383
+2021,Kia Niro,Electric,20499,25000,https://www.donedeal.ie/cars-for-sale/kia-e-niro-loaded-with-extras-ev-e-niro-204-bhp/40489555
+2017,Kia Sportage,1.7 Diesel,166000,16250,https://www.donedeal.ie/cars-for-sale/2017-kia-sportage-ex-5dr/40757029
+2013,Kia Rio,1.2 Petrol,210501,6250,https://www.donedeal.ie/cars-for-sale/2013-kia-rio-1-25-1-5dr/40757011
+2015,Kia Ceed,1.6 Diesel,160934,9750,https://www.donedeal.ie/cars-for-sale/2015-kia-ceed-ceed-1-ecodynamics-5dr/40756996
+2014,Kia Carens,1.7 Diesel,245900,7250,https://www.donedeal.ie/cars-for-sale/2014-kia-carens-1-7-ex-5dr/40424409
+2016,Kia Rio,1.2 Petrol,120000,9250,https://www.donedeal.ie/cars-for-sale/2016-kia-rio-ex-1-25-my2015-5dr/40424433
+2016,Kia Rio,1.2 Petrol,77248,10500,https://www.donedeal.ie/cars-for-sale/kia-rio-2016/30136359
+2018,Kia Ceed,1.6 Diesel,114263,14950,https://www.donedeal.ie/cars-for-sale/kia-ceed-2-isg-crdi/40755456
+2017,Kia Ceed,1.6 Diesel,143683,11950,https://www.donedeal.ie/cars-for-sale/kia-ceed-1-isg-crdi/40610809
+2017,Kia Rio,1.4 Diesel,140252,11950,https://www.donedeal.ie/cars-for-sale/kia-rio-2-crdi/40460017
+2023,Kia Niro,64.8 kWh Electric,68000,29995,https://www.donedeal.ie/cars-for-sale/kia-niro-ev-k4-5dr-auto-0-finance-free-home-cha/40187048
+2017,Kia Rio,1.4 Diesel,158000,11495,https://www.donedeal.ie/cars-for-sale/kia-rio-lx-5dr/40187047
+2023,Kia Picanto,1.0 Petrol,25000,18995,https://www.donedeal.ie/cars-for-sale/kia-picanto-1-0-my23-at-5dr-auto/40172312
+2015,Kia Sportage,1.7 Diesel,165136,11900,https://www.donedeal.ie/cars-for-sale/kia-sportage-gse-4dr/40172311
+2022,Kia Sportage,1.6 Petrol Plug-in Hybrid,19473,39900,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-phev-5dr-auto/36846975
+2024,Kia Sorento,2.2 Diesel,39000,58495,https://www.donedeal.ie/cars-for-sale/kia-sorento-dsl-7-str-my23-sam-5/39515862
+2019,Kia Sportage,1.6 Diesel,180000,20995,https://www.donedeal.ie/cars-for-sale/kia-sportage-gt-line-5dr/39295405
+2024,Kia Ceed,1.6 Petrol Plug-in Hybrid,5000,34900,https://www.donedeal.ie/cars-for-sale/kia-xceed-phev-my24-5dr-auto-demo-delivery-kms-on/38709808
+2022,Kia Sportage,1.6 Diesel Hybrid,73000,35995,https://www.donedeal.ie/cars-for-sale/kia-sportage-gt-line-5dr/39026874
+2019,Kia Sportage,1.6 Diesel,158500,20900,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-5dr/37495002
+2022,Kia Picanto,1.0 Petrol,60000,14995,https://www.donedeal.ie/cars-for-sale/kia-picanto-pe-1-0-my22-5dr/39348375
+2017,Kia Sorento,2.2 Diesel,146449,22495,https://www.donedeal.ie/cars-for-sale/kia-sorento-2-2-crdi-kx-1-4wd-197hp-5dr/40117465
+2018,Kia Soul,1.6 Diesel,107664,19950,https://www.donedeal.ie/cars-for-sale/kia-soul-1-6-dsl/31072022
+2017,Kia Niro,1.6 Petrol Hybrid,196000,13995,https://www.donedeal.ie/cars-for-sale/kia-niro-hybrid-exl-5dr-auto/40016236
+2022,Kia Niro,1.6 Petrol Plug-in Hybrid,87000,27995,https://www.donedeal.ie/cars-for-sale/kia-niro-phev-k4-5dr-auto/40170968
+2021,Kia Stonic,1.0 Petrol,35000,18900,https://www.donedeal.ie/cars-for-sale/kia-stonic-k3-my20-5dr/38842438
+2022,Kia Sportage,1.6 Diesel Hybrid,56000,32995,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-mhev-spec-special-ed-5dr/39017317
+2019,Kia Sorento,2.2 Diesel,155000,27500,https://www.donedeal.ie/cars-for-sale/kia-sorento-k1-2-2d-4wd-5dr/35159997
+2020,Kia Stonic,1.2 Petrol,113000,15900,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-2-k1-sam-5dr/39213111
+2017,Kia Sportage,1.7 Diesel,168020,17950,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-7-platinum-5dr/39409338
+2022,Kia Sportage,1.6 Diesel,45000,33900,https://www.donedeal.ie/cars-for-sale/kia-sportage-manual-5dr/40460044
+2020,Kia Stonic,1.2 Petrol,65000,17495,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-2-k1-sam-5dr-petrol/40726400
+2019,Kia Sportage,1.6 Diesel,205000,19995,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-5dr/40410590
+2021,Kia Sportage,1.6 Diesel Hybrid,81823,25995,https://www.donedeal.ie/cars-for-sale/kia-sportage-k2-mhev-hp-5-5dr/37473910
+2024,Kia Niro,1.6 Petrol Plug-in Hybrid,23000,37900,https://www.donedeal.ie/cars-for-sale/kia-niro-phev-k4-5dr-auto/40118907
+2025,Kia EV3,81.4 kWh Electric,1500,43495,https://www.donedeal.ie/cars-for-sale/kia-ev3-earth-k3-long-range-0-pcp-hp-finance-fr/39436045
+2018,Kia Sorento,2.2 Diesel,156365,26995,https://www.donedeal.ie/cars-for-sale/kia-sorento-k2-5dr/39434611
+2023,Kia Niro,64.8 kWh Electric,22466,32900,https://www.donedeal.ie/cars-for-sale/kia-niro-ev-k3-5dr-a-auto-0-finance-free-home-c/39719335
+2020,Kia Soul,64 kWh Electric,101000,17900,https://www.donedeal.ie/cars-for-sale/kia-soul-e-soul-k3-lr-5dr-auto-0-finance-free-h/38815412
+2020,Kia Stonic,1.2 Petrol,65000,17495,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-2-k1-sam-5dr-petrol/38815408
+2021,Kia Sorento,1.6 Petrol Plug-in Hybrid,67857,43995,https://www.donedeal.ie/cars-for-sale/kia-sorento-phev-k4-5dr-auto-free-home-charger-ava/40099606
+2020,Kia Stonic,1.2 Petrol,35000,19495,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-2-k1-sam-5dr-petrol/38815407
+2022,Kia Sportage,1.6 Diesel,70000,32900,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-6d-k3-manual-5dr/38987697
+2023,Kia Niro,64.8 kWh Electric,54000,30950,https://www.donedeal.ie/cars-for-sale/kia-niro-ev-k4-5dr-auto-0-finance-free-home-cha/39691611
+2017,Kia Sportage,1.7 Diesel,199558,14995,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-isg-114bhp-5dr/40075188
+2023,Kia Sorento,2.2 Diesel,51000,48495,https://www.donedeal.ie/cars-for-sale/kia-sorento-k3-5p-5dr-auto/40053946
+2015,Kia Venga,1.4 Petrol,110600,9900,https://www.donedeal.ie/cars-for-sale/kia-venga-l-4dr/39617723
+2018,Kia Ceed,1.6 Diesel,127942,16495,https://www.donedeal.ie/cars-for-sale/kia-ceed-ceed-2-isg-134bhp-5dr/39616762
+2020,Kia Sportage,1.6 Diesel,138000,23495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-mhev-5dr/40380774
+2018,Kia Venga,1.4 Petrol,79000,12495,https://www.donedeal.ie/cars-for-sale/kia-venga-petrol-l-5dr/39950199
+2016,Kia Carens,1.7 Diesel,130000,12450,https://www.donedeal.ie/cars-for-sale/kia-carens-ex-pe-5dr/39936984
+2021,Kia Sportage,1.6 Diesel Hybrid,56700,32495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-dct-special-my21-5-5dr-auto/40304945
+2023,Kia Stonic,1.0 Petrol Hybrid,28000,25900,https://www.donedeal.ie/cars-for-sale/kia-stonic-pe-k3-dct-5dr-au-auto/39525117
+2020,Kia Sportage,1.6 Diesel,233122,18500,https://www.donedeal.ie/cars-for-sale/kia-sportage-powerfull-suv-economic-car-1-6-crd/40441788
+2021,Kia Rio,1.2 Petrol,42848,16500,https://www.donedeal.ie/cars-for-sale/kia-rio-1-25-k1-low-mileage/38775033
+2014,Kia Sportage,1.7 Diesel,238001,11495,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-7-lxe-4dr/36033288
+2017,Kia Carens,1.7 Diesel,161000,13995,https://www.donedeal.ie/cars-for-sale/kia-carens-1-7-crdi-4-isg-139hp-5dr/40677608
+2019,Kia Optima,1.6 Diesel,139380,15495,https://www.donedeal.ie/cars-for-sale/2019-kia-optima-1-6d-k2/40675099
+2019,Kia Stonic,1.4 Petrol,101650,15950,https://www.donedeal.ie/cars-for-sale/kia-stonic-k3-1-4-petrol-two-tone/39300377
+2025,Kia Picanto,1.0 Petrol,10,18995,https://www.donedeal.ie/cars-for-sale/kia-picanto-1-0-pe2-mt-delivery-kms-only/40656202
+2025,Kia EV9,99.8 kWh Electric,4600,74995,https://www.donedeal.ie/cars-for-sale/kia-ev9-earth-rwd-5dr-auto-demo-sale/40656208
+2022,Kia Sportage,1.6 Diesel,88231,31950,https://www.donedeal.ie/cars-for-sale/kia-sportage-2022/39139533
+2017,Kia Carens,1.7 Diesel,112653,15900,https://www.donedeal.ie/cars-for-sale/kia-carens-1-7-crdi-2-isg-114bhp-5-5dr-7seats/40644261
+2023,Kia Sportage,1.6 Diesel,38000,36495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k4-my23-5dr/40644262
+2013,Kia Venga,1.4 Diesel,120821,5995,https://www.donedeal.ie/cars-for-sale/2013-kia-venga-1-4d-ex/40626112
+2021,Kia Sportage,1.6 Diesel Hybrid,44060,28900,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-mhev-spec-special-ed-5dr/38793359
+2019,Kia Sportage,1.6 Diesel,198000,18495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k2-5dr/38286622
+2024,Kia EV6,Electric,500,65495,https://www.donedeal.ie/cars-for-sale/kia-ev6-gt-5dr-auto-0-finance-available-free-ho/35775852
+2023,Kia Sportage,1.6 Petrol Plug-in Hybrid,46083,39495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-phev-my23-5dr-auto/38785489
+2021,Kia Rio,1.2 Petrol,53368,16900,https://www.donedeal.ie/cars-for-sale/kia-rio-k1-perol-5dr/39141766
+2021,Kia Sportage,1.6 Diesel Hybrid,114000,27495,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-mhev-spec-special-ed-5dr/39617721
+2017,Kia Sorento,2.2 Diesel,197672,24500,https://www.donedeal.ie/cars-for-sale/kia-sorento-platinum-4x2-5dr/37832024
+2021,Kia Stonic,1.0 Petrol Hybrid,55000,19900,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-0-k3-mhev-pe-m-my21-5dr/38934289
+2023,Kia Rio,1.2 Petrol,25000,20495,https://www.donedeal.ie/cars-for-sale/kia-rio-pe-petrol-my2021-5dr/39112089
+2021,Kia Soul,64 kWh Electric,72000,21495,https://www.donedeal.ie/cars-for-sale/kia-soul-e-soul-k3-lr-5dr-auto-0-finance-free-h/39110972
+2019,Kia Sorento,2.2 Diesel,165000,28500,https://www.donedeal.ie/cars-for-sale/kia-sorento-k2-5dr/36684918
+2015,Kia Sportage,1.7 Diesel,250000,10900,https://www.donedeal.ie/cars-for-sale/kia-sportage-ex-5dr/33745749
+2015,Kia Sportage,1.7 Diesel,217260,11900,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-isg-114bhp-5dr/36563225
+2021,Kia Sportage,1.6 Diesel Hybrid,67000,28900,https://www.donedeal.ie/cars-for-sale/kia-sportage-k3-mhev-spec-special-ed-5dr/36555327
+2020,Kia Sportage,1.6 Diesel,143231,27495,https://www.donedeal.ie/cars-for-sale/kia-sportage-1-6-gt-line-crdi-mhev/39320460
+2021,Kia Sorento,2.2 Diesel,230000,34995,https://www.donedeal.ie/cars-for-sale/kia-sorento-k4-2wd-5dr-auto-au/39320458
+2022,Kia Stonic,1.0 Petrol,79000,19900,https://www.donedeal.ie/cars-for-sale/kia-stonic-1-0-k2-pe-petrol-my2022/39320457
+2022,Kia Picanto,1.0 Petrol,23930,18500,https://www.donedeal.ie/cars-for-sale/kia-picanto-pe-1-0-auto-my2-my2021-5dr/37528257
+2018,Kia Niro,1.6 Petrol Plug-in Hybrid,103000,18995,https://www.donedeal.ie/cars-for-sale/kia-niro-phev-5dr-auto-free-home-charger-available/39017320
+2016,Kia Sportage,1.7 Diesel,206008,13950,https://www.donedeal.ie/cars-for-sale/kia-sportage-2-isg-2wd-114bhp-5dr/39576820
+2014,Kia Sportage,1.7 Diesel,276300,9495,https://www.donedeal.ie/cars-for-sale/kia-sportage-ex-my2013-5dr/39677748
+2015,Kia Carens,1.7 Diesel,403828,7900,https://www.donedeal.ie/cars-for-sale/kia-carens-ex-pe-5dr/37849466
+2014,Kia Carens,1.7 Diesel,245900,7250,https://www.donedeal.ie/cars-for-sale/2014-kia-carens-1-7-ex-5dr/40424409
+2015,Kia Carens,1.7 Diesel,403828,7900,https://www.donedeal.ie/cars-for-sale/kia-carens-ex-pe-5dr/37849466

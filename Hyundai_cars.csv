@@ -1,0 +1,87 @@
+year,name,engine_size,mileage(km),price(eur),link
+2014,Hyundai ix35,1.7 Diesel,245000,6950,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-2014-diesel/40154928
+2016,Hyundai i40,1.7 Diesel,231479,11995,https://www.donedeal.ie/cars-for-sale/2016-hyundai-i40-1-7-automatic-executive-plus/40697033
+2019,Hyundai i30,1.6 Diesel,197588,11495,https://www.donedeal.ie/cars-for-sale/2019-hyundai-i30-classic-1-6-crdi-diesel/36569643
+2022,Hyundai Tucson,1.6 Petrol Plug-in Hybrid,115872,29950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-premium-tgdi-phev/39419632
+2015,Hyundai i40,1.7 Diesel,172102,8750,https://www.donedeal.ie/cars-for-sale/hyundai-i40-1-7-crdi-s-bl-dr-115ps-4dr/40188920
+2018,Hyundai i30,1.6 Diesel,120700,16500,https://www.donedeal.ie/cars-for-sale/hyundai-i30-se-crdi/40518318
+2015,Hyundai ix35,1.7 Diesel,232877,8495,https://www.donedeal.ie/cars-for-sale/2015-hyundai-ix35-celebration-1-7d-le-115hp/40434322
+2013,Hyundai ix35,1.7 Diesel,139637,7195,https://www.donedeal.ie/cars-for-sale/2013-hyundai-ix35-1-7-celebration-diesel/40033905
+2017,Hyundai Santa Fe,2.2 Diesel,265999,14995,https://www.donedeal.ie/cars-for-sale/2017-hyundai-santa-fe-2-2-crdi-7-seat/40027754
+2016,Hyundai i30,1.6 Diesel,215365,11950,https://www.donedeal.ie/cars-for-sale/hyundai-i30-se-nav-blue-drive-110-5dr-110ps/40498855
+2018,Hyundai Tucson,1.7 Diesel,195092,15995,https://www.donedeal.ie/cars-for-sale/2018-hyundai-tucson-1-7d-comfort-plus/40434399
+2019,Hyundai Tucson,1.6 Diesel,154462,18995,https://www.donedeal.ie/cars-for-sale/2019-hyundai-tucson-2wd-comfort-1-6d/40375293
+2015,Hyundai i40,1.7 Diesel,331686,5495,https://www.donedeal.ie/cars-for-sale/2015-hyundai-i40-comfort-1-7d-estate/38616503
+2018,Hyundai Tucson,1.7 Diesel,287682,13995,https://www.donedeal.ie/cars-for-sale/2018-hyundai-tucson-1-7-d-executive-se/40735168
+2014,Hyundai i40,1.7 Diesel,168798,6995,https://www.donedeal.ie/cars-for-sale/2014-hyundai-i40-executive-1-7-diesel/40174406
+2017,Hyundai Tucson,1.7 Diesel,215788,12995,https://www.donedeal.ie/cars-for-sale/2017-hyundai-tucson-1-7d-premium/40034314
+2016,Hyundai Tucson,1.7 Diesel,178000,10950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-1-7crdi-manual/40797949
+2012,Hyundai ix35,2.0 Diesel,235214,6495,https://www.donedeal.ie/cars-for-sale/2012-hyundai-ix35-2-0-diesel-4wd-automatic/39171354
+2016,Hyundai Tucson,2.0 Diesel,121707,14995,https://www.donedeal.ie/cars-for-sale/2016-hyundai-tucson-2-0-d-executive-4wd/40672346
+2016,Hyundai Tucson,1.7 Diesel,316608,9495,https://www.donedeal.ie/cars-for-sale/2016-hyundai-tucson-1-7d-comfort/40237045
+2017,Hyundai Tucson,1.7 Diesel,181097,13995,https://www.donedeal.ie/cars-for-sale/2017-hyundai-tucson-1-7d-premium/39762764
+2014,Hyundai ix35,1.7 Diesel,215000,7950,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-2014/40664900
+2017,Hyundai Tucson,1.7 Diesel,173808,15250,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2017/40664860
+2016,Hyundai Tucson,1.7 Diesel,233354,11950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2016/40459754
+2016,Hyundai i30,1.6 Diesel,209214,9500,https://www.donedeal.ie/cars-for-sale/hyundai-i30-2016/40453187
+2017,Hyundai Tucson,1.7 Diesel,133575,16950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-se-nav-b-drive-2wd-crdi-blue-drive/40796803
+2017,Hyundai i20,1.2 Petrol,69777,13995,https://www.donedeal.ie/cars-for-sale/hyundai-i20-2017-1-2-deluxe/40035075
+2022,Hyundai Tucson,1.6 Petrol Plug-in Hybrid,98882,30950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-ultimate-tgdi-phev-t-gdi/40610787
+2015,Hyundai i30,1.6 Diesel,175601,10250,https://www.donedeal.ie/cars-for-sale/hyundai-i30-se-blue-drive-crdi/40610788
+2016,Hyundai Tucson,1.7 Diesel,151553,14550,https://www.donedeal.ie/cars-for-sale/2016-hyundai-tucson-se-nav-b-drive-1-7-crdi-94k/40643794
+2016,Hyundai Tucson,1.7 Diesel,189514,12450,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-1-7-diesel-2016-mint/39995893
+2016,Hyundai i30,1.4 Petrol,87000,11250,https://www.donedeal.ie/cars-for-sale/2016-hyundai-i30-deluxe-4dr-5dr/40756985
+2019,Hyundai Tucson,1.6 Diesel,164000,18250,https://www.donedeal.ie/cars-for-sale/2019-hyundai-tucson-ix35-4wd-executive-plus-5dr/40424118
+2016,Hyundai i40,1.7 Diesel,212825,9995,https://www.donedeal.ie/cars-for-sale/2016-hyundai-i40-1-7-diesel-executive-plus/40735186
+2014,Hyundai i30,1.6 Diesel,165000,6950,https://www.donedeal.ie/cars-for-sale/hyundai-i30-2014/40734167
+2021,Hyundai Tucson,1.6 Diesel,158150,24950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-tucson-executive-commercial-5d-vat/40731850
+2018,Hyundai Santa Fe,2.2 Diesel,211000,21900,https://www.donedeal.ie/cars-for-sale/hyundai-santa-fe-executive-4wd-5dr/38021575
+2022,Hyundai Santa Fe,1.6 Petrol Plug-in Hybrid,107200,41900,https://www.donedeal.ie/cars-for-sale/hyundai-santa-fe-phev-7-seater-5dr-auto/39792871
+2015,Hyundai Santa Fe,2.2 Diesel,193120,14900,https://www.donedeal.ie/cars-for-sale/hyundai-santa-fe-2-2-crdi-premium-5dr-4wd/34520394
+2015,Hyundai ix35,1.7 Diesel,233252,12900,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-s-5dr/35825408
+2016,Hyundai Tucson,1.7 Diesel,173808,13495,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-1-7-crdi-se-bl-dr-5dr/40053947
+2019,Hyundai Santa Fe,2.2 Diesel,136482,27900,https://www.donedeal.ie/cars-for-sale/hyundai-santa-fe-2wd-executive-plus-5dr/39190095
+2023,Hyundai i20,1.2 Petrol,55314,22500,https://www.donedeal.ie/cars-for-sale/hyundai-i20-hyundia-i20-like-new-1-2-petrol/40708278
+2025,Hyundai Ioniq,Electric,10,46950,https://www.donedeal.ie/cars-for-sale/hyundai-ioniq-6-ioniq-6-elegance-77kwh/40458138
+2022,Hyundai Tucson,1.6 Diesel,66500,35950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2wd-executive-plus/40431344
+2025,Hyundai i20,1.2 Petrol,18860,23450,https://www.donedeal.ie/cars-for-sale/hyundai-i20-i20-deluxe-plus/40427368
+2025,Hyundai Tucson,1.6 Diesel,12000,40950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-tucson-fl-executive/40427349
+2025,Hyundai Tucson,1.6 Diesel,18750,38950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-tucson-fl-comfort-plus/40427343
+2025,Hyundai Tucson,1.6 Diesel,16500,44900,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-tucson-fl-executive-plus/40288011
+2023,Hyundai Tucson,1.6 Diesel,36000,35950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2wd-executive/40239273
+2023,Hyundai Bayon EXECUTIVE,1.0 Petrol,31095,24950,https://www.donedeal.ie/cars-for-sale/hyundai-bayon-bayon-executive-auto/40209424
+2025,Hyundai Ioniq,Electric,10,80995,https://www.donedeal.ie/cars-for-sale/hyundai-ioniq-9-platinum/40177756
+2017,Hyundai i20,1.2 Petrol,85314,13950,https://www.donedeal.ie/cars-for-sale/hyundai-i20-1-2-classic/40122358
+2023,Hyundai Tucson,1.6 Diesel,100863,32950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2wd-executive/40042732
+2024,Hyundai Tucson,1.6 Diesel,31515,39950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-executive-plus/39739067
+2022,Hyundai i10,1.0 Petrol,68864,16950,https://www.donedeal.ie/cars-for-sale/hyundai-i10-deluxe/39716036
+2025,Hyundai i10,1.0 Petrol,4080,21950,https://www.donedeal.ie/cars-for-sale/hyundai-i10-deluxe-plus-ex-demo/39615277
+2025,Hyundai i30,1.0 Petrol,10131,30950,https://www.donedeal.ie/cars-for-sale/hyundai-i30-petrol-nline-ex-demo/39615256
+2021,Hyundai i30,1.0 Petrol,60967,19950,https://www.donedeal.ie/cars-for-sale/hyundai-i30-petrol-deluxe-turbo/39523006
+2025,Hyundai Tucson,1.6 Petrol Plug-in Hybrid,10,51350,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-platinum-w-sunroof-phev-new-in-sto/39432220
+2020,Hyundai Tucson,1.6 Diesel,123505,21950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-comfort-diesel/39397771
+2020,Hyundai i20,1.2 Petrol,76140,16950,https://www.donedeal.ie/cars-for-sale/hyundai-i20-1-2-deluxe/39081730
+2025,Hyundai Santa Fe,1.6 Petrol Plug-in Hybrid,10,72995,https://www.donedeal.ie/cars-for-sale/hyundai-santa-fe-premium-calligraphy-in-stock/39025586
+2021,Hyundai i10,1.0 Petrol,68547,14950,https://www.donedeal.ie/cars-for-sale/hyundai-i10-i10-deluxe-plus/38996307
+2023,Hyundai Ioniq,77.4 kWh Electric,54567,34750,https://www.donedeal.ie/cars-for-sale/hyundai-ioniq-5-77kw-platinum-long-range-battery/38628056
+2022,Hyundai i30,1.0 Petrol,65000,22950,https://www.donedeal.ie/cars-for-sale/hyundai-i30-deluxe-nline/38327591
+2024,Hyundai Tucson,1.6 Diesel,24656,37000,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-located-in-tuam-garage-tiny-milea/40071552
+2017,Hyundai Tucson,1.7 Diesel,213631,15950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-1-7-s-bld-116ps-5dr/39469335
+2019,Hyundai Tucson,1.6 Diesel,218070,16000,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-car-located-in-tuam-garage-full-l/40278361
+2023,Hyundai Tucson,1.6 Diesel,59585,35950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-2wd-executive/40680486
+2017,Hyundai Tucson,1.7 Diesel,105083,16750,https://www.donedeal.ie/cars-for-sale/2017-hyundai-tucson-se-nav-just-65-296-mls/40524144
+2011,Hyundai Santa Fe,2.0 Diesel,341210,4995,https://www.donedeal.ie/cars-for-sale/2011-hyundai-santa-fe-2-0-2wd-classic-150hp/40674070
+2016,Hyundai Tucson,2.0 Diesel,194549,14495,https://www.donedeal.ie/cars-for-sale/2016-hyundai-tucson-2-0-d-executive-4wd-automatic/40673325
+2018,Hyundai Tucson,1.7 Diesel,125061,18995,https://www.donedeal.ie/cars-for-sale/2018-hyundai-tucson-1-7-d-executive-se/40673301
+2015,Hyundai ix35,2.0 Diesel,150000,12000,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-2015-4-wheel-drive/40189991
+2025,Hyundai Kona,Electric,10,40995,https://www.donedeal.ie/cars-for-sale/hyundai-kona-kona-ev-elegance-65kwh/39432698
+2025,Hyundai i30,1.0 Petrol,10,35650,https://www.donedeal.ie/cars-for-sale/hyundai-i30-n-line-4-9-apr-pcp/39146354
+2025,Hyundai INSTER order NOW FOR 252,Electric,10,20545,https://www.donedeal.ie/cars-for-sale/hyundai-inster-order-now-for-252/38394935
+2025,Hyundai i20,1.2 Petrol,10,26745,https://www.donedeal.ie/cars-for-sale/hyundai-i20-pcp-available-deluxe-plus/36760181
+2018,Hyundai Tucson,1.7 Diesel,173000,17495,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-executive-1-7-5dr/39348374
+2011,Hyundai ix35,1.7 Diesel,156105,7950,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-style-2wd-crdi-5dr/34569968
+2025,Hyundai i20,1.2 Petrol,9999,23450,https://www.donedeal.ie/cars-for-sale/hyundai-i20-i20-deluxe-plus/40438850
+2011,Hyundai ix35,2.0 Diesel,334943,4950,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-2011/40325434
+2017,Hyundai Tucson,1.7 Diesel,127000,14950,https://www.donedeal.ie/cars-for-sale/hyundai-tucson-1-7-d-premium/39777687
+2013,Hyundai ix35,1.7 Diesel,139637,7195,https://www.donedeal.ie/cars-for-sale/2013-hyundai-ix35-1-7-celebration-diesel/40033905
+2014,Hyundai ix35,1.7 Diesel,215000,7950,https://www.donedeal.ie/cars-for-sale/hyundai-ix35-2014/40664900

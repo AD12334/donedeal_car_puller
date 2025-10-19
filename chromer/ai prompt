@@ -1,0 +1,46 @@
+Prompt:
+
+I will give you a list of car descriptions. Your task is to extract only the car brand and car model. Ignore all other information such as trims, variants, year, mileage, engine type, hybrid/electric info, or any extra specs.
+
+Rules:
+
+Only return the brand and the model.
+
+Do not include engine, trim, edition, year, or any other details.
+
+If a brand or model is not in the known master list, include it in new entries.
+
+Return two Python structures:
+
+car_brands = [
+    # Include all known brands + any newly found
+]
+
+car_models = {
+    "Brand1": ["Model1", "Model2", ...],
+    "Brand2": ["Model1", "Model2", ...],
+    ...
+}
+
+
+Make sure all models are unique under each brand.
+
+Keep all formatting consistent; do not append using += or .append—return the entire master structures every time.
+
+Example:
+
+Input:
+
+Mercedes-Benz EQE EQE 300 Sport Edition
+BMW 2 Series 218i M Sport Gran Coupe
+Toyota C-HR PHEV SPORT**** DEMO SALE
+
+
+Output:
+
+car_brands = ["Mercedes-Benz", "BMW", "Toyota"]
+car_models = {
+    "Mercedes-Benz": ["EQE"],
+    "BMW": ["2 Series"],
+    "Toyota": ["C-HR"]
+}
