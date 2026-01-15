@@ -435,7 +435,8 @@ if __name__ == "__main__":
 
     # Print or prepare email
     email_body = prepare_email(all_cars)
-    send_email("Donedeal Car Search Results", email_body,"adamdownes22@gmail.com")
+    send_email("Donedeal Car Search Results", email_body,"{PLACEHOLDER_EMAIL@GMAIL.COM}")
     print(email_body)
     print(f"\n[INFO] Total cars extracted: {len(all_cars)}\n")
     write_to_csv(all_cars, check_duplicates())
+
