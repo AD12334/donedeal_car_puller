@@ -292,29 +292,7 @@ selenium>=4.0.0
 - Screenshots are named based on the listing URL for easy reference
 - Consider adding delays to avoid overwhelming the server
 
-## Performance Tips
-
-- Adjust scroll delays if pages load slowly (increase) or quickly (decrease)
-- Consider implementing headless mode for faster execution (no visible browser window)
-- Use filtering to focus on specific car types or price ranges
-
-## License
-
-[Add appropriate license]
-
-## Author
-
-Created by AD12334
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## Disclaimer
-
-This tool is for **educational purposes only**. Please ensure you comply with:
-- DoneDeal's Terms of Service
-- DoneDeal's robots.txt file
-- All applicable laws regarding web scraping in your jurisdiction
-
-Unauthorized scraping may violate terms of service. Use responsibly.
