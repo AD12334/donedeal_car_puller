@@ -3,10 +3,11 @@ import re
 import time
 import argparse
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 
 class Car:
@@ -144,56 +145,102 @@ def prepare_email(cars):
     return "\n".join(lines)
 
 def send_email(subject, body, to_email):
+    """Send an email with the given subject and body, attaching up to a size limit of image
+    thumbnails saved in `car_screenshots/thumbs` to avoid exceeding provider limits.
+
+    Behavior:
+    - Attach at most `max_images` images and keep total attachment size below `max_total_bytes`.
+    - If images are too large, send the email without images and include a note pointing to the
+      local screenshots directory.
+    - Images are not deleted automatically so you can inspect them locally.
+    """
     import smtplib
+    import glob
+    import os
     from email.mime.text import MIMEText
     from email.mime.image import MIMEImage
     from email.mime.multipart import MIMEMultipart
-    import glob
-    import os
 
-    from_email = "<your_email@gmail.com>"
-    password = "<your_email_password>"
+    from_email = "emailerbot22@gmail.com"
+    password = "bzwb uwco ivhc kjpx"
 
-    # Create the container email message
-    msg = MIMEMultipart()
-    msg["Subject"] = subject
-    msg["From"] = from_email
-    msg["To"] = to_email
+    # Limits (Gmail limit ~25MB total message size). Use a conservative cap.
+    max_total_bytes = 20 * 1024 * 1024  # 20 MB
+    max_images = 6
 
-    # Add the text part
-    text_part = MIMEText(body)
-    msg.attach(text_part)
+    # Build multipart/related email so inline images can be referenced from HTML
+    msg_root = MIMEMultipart('related')
+    msg_root['Subject'] = subject
+    msg_root['From'] = from_email
+    msg_root['To'] = to_email
 
-    # Add all screenshots from the car_screenshots directory
+    # Alternative part (plain + html)
+    msg_alt = MIMEMultipart('alternative')
+    msg_root.attach(msg_alt)
+
+    # Plain text part
+    text_part = MIMEText(body, 'plain', 'utf-8')
+    msg_alt.attach(text_part)
+
+    # Build HTML body; convert newlines to <br>
+    body_with_breaks = body.replace('\n', '<br>')
+    html_body = f"<html><body>{body_with_breaks}<br><hr>"
+
+    # Collect thumbnails from thumbs directory (created by extractor)
     screenshots_dir = "car_screenshots"
-    if os.path.exists(screenshots_dir):
-        for img_path in glob.glob(os.path.join(screenshots_dir, "*.png")):
+    thumbs_dir = os.path.join(screenshots_dir, "thumbs")
+    attached_images = []
+    total_size = 0
+
+    if os.path.exists(thumbs_dir):
+        # pick images sorted by mtime (newest first)
+        candidate_paths = sorted(glob.glob(os.path.join(thumbs_dir, "*.jpg")), key=os.path.getmtime, reverse=True)
+        for path in candidate_paths:
             try:
-                with open(img_path, 'rb') as f:
-                    img_data = f.read()
-                    image = MIMEImage(img_data)
-                    # Use the filename as Content-ID
-                    img_name = os.path.basename(img_path)
-                    image.add_header('Content-ID', f'<{img_name}>')
-                    image.add_header('Content-Disposition', 'inline', filename=img_name)
-                    msg.attach(image)
+                size = os.path.getsize(path)
+            except Exception:
+                continue
+            # Check would adding this image exceed caps
+            if len(attached_images) >= max_images:
+                break
+            if total_size + size > max_total_bytes:
+                # Skip further images if adding this would exceed the cap
+                break
+            attached_images.append((path, size))
+            total_size += size
+
+    # If we attached images, add their HTML references
+    if attached_images:
+        for p, _ in attached_images:
+            cid = os.path.basename(p)
+            html_body += f'<div><img src="cid:{cid}" style="max-width:600px;max-height:400px;"></div>'
+        html_body += "</body></html>"
+        html_part = MIMEText(html_body, 'html', 'utf-8')
+        msg_alt.attach(html_part)
+
+        # Attach images inline
+        for p, _ in attached_images:
+            try:
+                with open(p, 'rb') as f:
+                    img = MIMEImage(f.read())
+                    img.add_header('Content-ID', f'<{os.path.basename(p)}>')
+                    img.add_header('Content-Disposition', 'inline', filename=os.path.basename(p))
+                    msg_root.attach(img)
             except Exception as e:
-                print(f"Error attaching image {img_path}: {e}")
+                print(f"Error attaching image {p}: {e}")
+    else:
+        # No images attached (either none exist or attachments would exceed caps)
+        html_body += f"<p><i>No images attached (too large or not found). Screenshots saved to: {os.path.abspath(thumbs_dir) if os.path.exists(thumbs_dir) else os.path.abspath(screenshots_dir)}</i></p></body></html>"
+        html_part = MIMEText(html_body, 'html', 'utf-8')
+        msg_alt.attach(html_part)
 
     # Send the email
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(from_email, password)
-        server.send_message(msg)
-        
-    # Clean up screenshots after sending
-    if os.path.exists(screenshots_dir):
-        for file in os.listdir(screenshots_dir):
-            file_path = os.path.join(screenshots_dir, file)
-            try:
-                if os.path.isfile(file_path):
-                    os.unlink(file_path)
-            except Exception as e:
-                print(f"Error deleting {file_path}: {e}")
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(from_email, password)
+            server.send_message(msg_root)
+    except Exception as e:
+        print(f"Error sending email: {e}")
 
 def process_car_title(title):
     car_brands = [
@@ -352,8 +399,7 @@ if __name__ == "__main__":
     parser.add_argument("--no_params_mode", type=bool, default=False, help="Run without filters")
     
     args = parser.parse_args()
-
-    service = Service(DRIVER_PATH)
+    service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service)
     driver.maximize_window()
     
