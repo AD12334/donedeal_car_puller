@@ -1,17 +1,55 @@
-#14/10/2025
+# DoneDeal Car Puller
 
-At present we have the following, loads up donedeal, accepts cookies, takes screenshots of each individual car
+## Project Structure
 
-#Future improvements
+```
+/donedeal_car_puller
+    ├── chromer
+    │   └── ReadMe.md
+    ├── src
+    │   ├── main.py
+    │   └── utils.py
+    ├── tests
+    │   └── test_main.py
+    └── requirements.txt
+```
 
-We should edit the code such that now it takes into account attributes such as mileage, engine size, year etc for each car
+## Prerequisites
+- Python 3.x
+- Pip
+- Beautiful Soup
+- Requests library
 
-It would be nice to automate email sending using this content
+## Features
+- Scrapes car listings from DoneDeal.com
+- Searches by various filters: location, price, type, etc.
+- Exports results to CSV format.
 
-Perhaps we could also have keywords such as car brand or mileage etc. such that a screenshot of the car fulfilling those qualities are saved?
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AD12334/donedeal_car_puller.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd donedeal_car_puller
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
--> links to the individual cars seem to follow the following syntax href="/cars-for-sale/renault-trafic-2021/40558143?campaign=3"
-"/cars-for-sale/<description-components-seperated-by-dash>/
+## Usage
+1. Run the main script with your desired parameters:
+   ```bash
+   python src/main.py --location "Dublin" --max_price 20000
+   ```
+2. The results will be saved in a CSV file in the project root.
 
+## Documentation Sections
+- **Contributing:** Guidelines for contributing to the project.
+- **License:** Information about the project's license.
+- **Contact:** How to reach the project maintainers.
 
--> keep a list of all the car components, iterate through the containers, extract the names and store that as a regex to the link
+## Conclusion
+DoneDeal Car Puller is an efficient tool to help users find and export car listings easily. For more details, check the documentation sections or reach out to the maintainers.
